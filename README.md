@@ -8,4 +8,4 @@ Enter: use space key
 
 If you want to know more about the story behind, you can check out the game demo powerpoint(in chinese)
 
-ps: If you have encountered some bugs, you can skip the scene by pressing escape key
+ps: If you have encountered some bugs, you can skip the scene by pressing escape key (or using Windows 10)
