@@ -7,3 +7,5 @@ Basic Movement: just use wasd to control the character
 Enter: use space key
 
 If you want to know more about the story behind, you can check out the game demo powerpoint(in chinese)
+
+ps: If you have encountered some bugs, you can skip the scene by pressing escape key
